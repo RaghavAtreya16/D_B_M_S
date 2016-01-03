@@ -1,3 +1,9 @@
 # D_B_M_S
 
 http://www.w3schools.in/dbms/database-normalization/
+
+
+http://www.eazynotes.com/pages/database-management-system/normalization.html
+
+
+http://beginnersbook.com/2015/05/normalization-in-dbms/
